@@ -1,0 +1,22 @@
+{
+  "productos": [
+    {
+      "id": "bbd9",
+      "Nombre": "Need for Speed",
+      "Precio": "185",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.dnabBoZl2GRIRX747z33rAHaJR&pid=Api"
+    },
+    {
+      "id": "10c2",
+      "Nombre": "Fallout 4",
+      "Precio": "255.00",
+      "image": "http://media.vandal.net/m/22904/fallout-4-201563155634_1.jpg"
+    },
+    {
+      "id": "ddf6",
+      "Nombre": "GTA V",
+      "Precio": "200.00",
+      "image": "https://c.shld.net/rpx/i/s/i/spin/10129818/prod_1696191212??hei=64&wid=64&qlt=50"
+    }
+  ]
+}
